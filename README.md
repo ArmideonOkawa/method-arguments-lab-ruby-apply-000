@@ -1,4 +1,4 @@
-# Method Arguments Lab
+the IDE keeps losing connection# Method Arguments Lab
 
 ## Objectives
 
